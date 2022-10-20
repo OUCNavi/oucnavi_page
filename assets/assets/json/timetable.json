@@ -251,7 +251,7 @@
         "textTraffic": "Bus",
         "textDeparture": "小樽駅前",
         "iconDestination": "graduation_hat",
-        "textDestination": "商大",
+        "textDestination": "商大前",
         "timetable": {
             "timetableWeekday": [
                 "07:30",
@@ -331,7 +331,7 @@
         "textTraffic": "Bus",
         "textDeparture": "商大前",
         "iconDestination": "apartment",
-        "textDestination": "小樽駅",
+        "textDestination": "小樽駅前",
         "timetable": {
             "timetableWeekday": [
                 "07:44",
