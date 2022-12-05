@@ -86059,23 +86059,24 @@ o=A.a1("\u30b3\u30b9\u30e1\u30c6\u30a3\u30c3\u30af",m,m,m,m,m,m)
 o=A.oC(A.dx(B.FA,m,m),new A.axB(this),m,o,m)
 n=A.a1("\u30d5\u30a9\u30fc\u30e0",m,m,m,m,m,m)
 return new A.MS(s,A.aej(A.a([new A.MT(new A.cd(r,m,m,m,m,m,B.J),q,m),p,o,A.oC(A.dx(B.Fp,m,m),new A.axC(this),m,n,m)],t.p)),m)}else return m},
-Xt(a){var s,r,q,p,o,n=this,m=null,l=t.p,k=A.a([],l),j=n.c.U(t.l).f.a
-for(s=a.b,r=2,q=3;q>=0;--q)if(s>600+q*200)r=q+3
-if(!$.qg().gHP()){s=A.dx(B.Fs,B.v8,25)
-p=n.w
-p=p===-1?"---":""+p
-p=A.cx(A.a([s,A.a1(p,m,m,m,A.aK(m,m,B.v8,m,m,m,m,m,m,m,m,25,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m)],l),B.m,B.o,B.l)
-s=A.a1("OUC navi",m,m,m,A.aK(m,m,A.i7(112,221,255,1),m,m,m,m,m,m,m,m,30,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m)
-if($.f2!=null){o=A.dx(B.om,m,m)
-o=A.iV(A.i7(112,221,255,1),o,m,new A.axI(n),m)}else o=A.aR(m,m,B.i,m,m,m,m,m,m,m,m,m,m,m)
-k.push(A.cx(A.a([p,s,o],l),B.m,B.f7,B.l))}k.push(A.ds(m,15*$.bI().gdM(),m))
-k.push($.qg().Jn(j))
-l=j.a
-s=l*0.05
-p=n.c
-p.toString
-k.push(A.aR(m,A.aXF(n.Xi(p,$.nF(),n.f),s,s,l/r,new A.axJ(n),new A.a3(s,s,s,s),!1,!0),B.i,m,m,m,m,m,m,m,m,m,m,m))
-return k},
+Xt(a){var s,r,q,p=this,o=null,n=t.p,m=A.a([],n),l=p.c.U(t.l).f.a,k=a.b,j=3
+while(!0){if(!(j>=0)){s=2
+break}if(k>600+j*200){s=j+3
+break}--j}if(!$.qg().gHP()){k=A.dx(B.Fs,B.v8,25)
+r=p.w
+r=r===-1?"---":""+r
+r=A.cx(A.a([k,A.a1(r,o,o,o,A.aK(o,o,B.v8,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)],n),B.m,B.o,B.l)
+k=A.a1("OUC navi",o,o,o,A.aK(o,o,A.i7(112,221,255,1),o,o,o,o,o,o,o,o,30,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
+if($.f2!=null){q=A.dx(B.om,o,o)
+q=A.iV(A.i7(112,221,255,1),q,o,new A.axI(p),o)}else q=A.aR(o,o,B.i,o,o,o,o,o,o,o,o,o,o,o)
+m.push(A.cx(A.a([r,k,q],n),B.m,B.f7,B.l))}m.push(A.ds(o,15*$.bI().gdM(),o))
+m.push($.qg().Jn(l))
+n=l.a
+k=n*0.05
+r=p.c
+r.toString
+m.push(A.aR(o,A.aXF(p.Xi(r,$.nF(),p.f),k,k,n/s,new A.axJ(p),new A.a3(k,k,k,k),!1,!0),B.i,o,o,o,o,o,o,o,o,o,o,o))
+return m},
 Xi(a,b,c){var s,r,q,p,o=A.a([],t.p)
 for(s=J.ae(c),r=0;q=$.zg(),r<8;++r)if($.aE_()[b[r]]){if(!q[r].gmp())if(!$.aDY()[b[r]])continue
 q=$.qg()
